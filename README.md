@@ -18,5 +18,5 @@ python3 main.py
 ## Entry text
 
 ```
-Our standup is fifteen minutes of everyone saying 'no blockers' while the projector shows the blocker we've all been ignoring since Tuesday.
+Production went down because I "fixed" a typo in a config file, then spent four hours proving the typo was load-bearing.
 ```
